@@ -1,4 +1,4 @@
-## Hello, Eu sou Gabriel Ximenes
+## Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> ,Iam Gabriel Ximenes
 
 🇧🇷 - Brazilian origin
 
@@ -26,8 +26,12 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
+  <img align="right"src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tk4y2dtzo992odk6m9qt7t5xemxlzxuzokakp98l&rid=giphy.gif&ct=g" width="150px">
+  <img align="left"src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47tk4y2dtzo992odk6m9qt7t5xemxlzxuzokakp98l&rid=giphy.gif&ct=g" width="150px">
+        
+     
+ ##  
 </div>
- 
+
   
   
