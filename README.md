@@ -2,13 +2,13 @@
 
 🇧🇷 - Brazilian origin
 
-💬 - Brasileiro de 17 anos, Imperatriz-MA, apaixonado por progamação, futuro desenvolvedor na área de front-end. Estudando no Instituto Federal do Maranhão - IFMA, Curso Técnico de Informatica 
+💬 - Brasileiro de 18 anos, Imperatriz-MA, apaixonado por progamação, futuro desenvolvedor na área de front-end. Estudei no Instituto Federal do Maranhão - IFMA, Curso Técnico de Informatica, Cusando Analise e desenvolvimento de sistema 1 período. 
 
 ➕ Estutante autodidata 
 
-💜 Principal plataforma de ensino: Rockeatseat
+💜 Principal plataforma de ensino: Rockeatseat, Youtube.
 
-🔷 Trabalhando com sistemas, Suporte Técnico (estágio) 
+🔷 Trabalhando com sistemas, Suporte Técnico 
       
  ## 
 
