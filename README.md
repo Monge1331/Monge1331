@@ -6,7 +6,7 @@
 
 ➕ Estutante autodidata 
 
-💜 Principal plataforma de ensino: Rockeatseat, Youtube.
+💜 Principal plataforma de ensino: MDN, Rockeatseat, Youtube.
 
 🔷 Trabalhando com sistemas, Suporte Técnico 
       
