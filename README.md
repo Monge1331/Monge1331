@@ -2,7 +2,7 @@
 
 🇧🇷 - Brazilian origin
 
-💬 - Brasileiro de 18 anos, Imperatriz-MA, apaixonado por progamação, futuro desenvolvedor na área de front-end. Estudei no Instituto Federal do Maranhão - IFMA, Curso Técnico de Informatica, Cusando Analise e desenvolvimento de sistema 1 período. 
+💬 - Brasileiro de 18 anos, Imperatriz-MA, apaixonado por progamação, futuro desenvolvedor na área de front-end. Estudei no Instituto Federal do Maranhão - IFMA, Curso Técnico de Informática, cursando Analise e desenvolvimento de sistemas 1º período. 
 
 ➕ Estutante autodidata 
 
