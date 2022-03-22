@@ -8,7 +8,9 @@
 
 💜 Principal plataforma de ensino: MDN, Rockeatseat, Youtube.
 
-🔷 Trabalhando com sistemas, Suporte Técnico 
+🔷 Trabalhando com sistemas, Suporte Técnico.
+      
+ 🖖 - Procurando uma boa vaga de desenvolvedor front-end.
       
  ## 
 
