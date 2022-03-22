@@ -10,7 +10,7 @@
 
 🔷 Trabalhando com sistemas, Suporte Técnico.
       
- 🖖 - Procurando uma boa vaga de desenvolvedor front-end.
+ 🖖 - Em busca de uma oportunidade na área de desenvolvimento.
       
  ## 
 
